@@ -1,0 +1,150 @@
+/* Layout */
+
+body {
+    font:normal 12px/1.6em Arial, Helvetica, sans-serif;
+	color:#2a3845;
+	margin:0;
+	padding:0;
+	background:
+}
+
+p {
+	margin:0;
+	padding:0;
+}
+
+#wrapper {
+	margin:0 auto;
+	width:632px;
+	border-left:1px solid #f0e9eb;
+	border-right:1px solid #f0e9eb;
+}
+
+#banner {
+	margin: 10px 0 0 0;
+}	
+	
+#navigation {
+	margin:0 1px;
+}
+
+#main-content {
+	margin:70px auto;
+}
+
+#main-image {
+	text-align:center;
+}
+
+#left-column {
+	width:320px;
+	padding:0 30px 30px;
+	float:left;
+}
+
+#right-column {
+	width:300px;
+	padding:0 10px 30px;
+	float:right;
+	
+}
+
+.sidebar {
+	width:250px;
+	margin:0 auto;
+	padding:10px 25px;
+}
+
+#footer {
+	background:#f7f7f7;
+	text-align:center;
+	border-top:1px solid #f0e9eb;
+	padding:5px 0px 5px 0px;
+	margin: 20px;
+	clear:both;
+}
+
+/* Global Styling */
+
+a:visited, a:link {
+	color:#a43b55;
+	text-decoration:none;
+	background:none;
+}
+
+a:hover {
+	color:#a43b55;
+	text-decoration:none;
+	background:none;
+}
+
+h1 {
+	color:#7a2e40;
+	margin:0 0 10px;
+	padding-bottom:10px;
+	font:normal 17px Georgia, serif;
+	border-bottom:1px solid #efece7;
+}
+
+h2 {
+	color:#7a2e40;
+	margin:20px 0 10px;
+	padding-bottom:10px;
+	font:normal 17px Georgia, serif;
+	border-bottom:1px solid #efece7;
+}
+
+h3 {
+	color:#7a2e40;
+	margin:10px 0;
+	padding-bottom:10px;
+	font:bold 14px Arial, Helvetica, sans-serif;
+	border-bottom:1px solid #efece7;
+}
+
+ul {
+	padding:0;
+	margin:0 0 0 17px;
+	list-style:#;
+}
+
+.box1 {
+	background:#f7f7f7;
+	border:1px solid #f0e9eb;
+	padding:15px;
+}
+
+.box2 {
+	background:#f7f7f7;
+	border:1px solid #f0e9eb;
+	padding:15px;
+	margin:30px 0 0 0;
+}	
+
+#nav {
+	background:transparent;
+	padding:5px 0px;
+	margin: 10px 0px 0px 30px;
+	text-align:center;
+	color:#696969;
+}
+
+#nav a {
+	margin: 0 20px;
+}
+
+#nav a:visited, #nav a:link {
+	text-decoration:none;	
+	color:#696969;
+}
+
+#nav a:hover {
+	text-decoration:none;
+	color:#696969;
+}
+
+#logo {
+	margin-bottom:20px;
+	font:normal 15px Georgia, serif;
+	color:#696969;
+}
